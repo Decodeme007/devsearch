@@ -26,8 +26,8 @@ def createUpdated(sender, instance, created, **kwargs):
             name=user.first_name,
         )
 
-        subject = 'Welcome to DevSearch'
-        message = 'We are glad you are here'
+        subject = 'Welcome to IP-Jugadd Projects'
+        message = 'Hi\nI am Manish Kumar. Thanks for Siging Up You are joining our community.\nBest...'
 
         send_mail(
             subject,
@@ -56,6 +56,7 @@ def deleteUser(sender, instance, **kwargs):
         user.delete()
     except:
         pass
+
 
 post_save.connect(createUpdated, sender=User)
 post_save.connect(updateUser, sender=Profile)
