@@ -13,13 +13,13 @@ Python, Django,AOS(Animation on scroll libraries), Bootstrap, HTML, CSS...
 
 ## Screenshots
     Landing Page
-![App Screenshot](https://github.com/Decodeme007/TEDxTIPS-2023.github.io/blob/main/images/Landing%20Page.png)
+![App Screenshot](https://github.com/Decodeme007/devsearch/blob/master/static/images/Screenshot%20(1297).png)
 
     Core Teams Section
-![App Screenshot](https://github.com/Decodeme007/TEDxTIPS-2023.github.io/blob/main/images/Core%20Team.png)
+![App Screenshot](https://github.com/Decodeme007/devsearch/blob/master/static/images/Screenshot%20(1298).png)
 
     Ticket Section
-![App Screenshot](https://github.com/Decodeme007/TEDxTIPS-2023.github.io/blob/main/images/Ticket.png)
+![App Screenshot](https://github.com/Decodeme007/devsearch/blob/master/static/images/Screenshot%20(1299).png)
 
     FAQ Section
-![App Screenshot](https://github.com/Decodeme007/TEDxTIPS-2023.github.io/blob/main/images/FAQ%20section.png)
+![App Screenshot](https://github.com/Decodeme007/devsearch/blob/master/static/images/Screenshot%20(1300).png)
