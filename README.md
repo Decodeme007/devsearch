@@ -15,11 +15,11 @@ Python, Django,AOS(Animation on scroll libraries), Bootstrap, HTML, CSS...
     Landing Page
 ![App Screenshot](https://github.com/Decodeme007/devsearch/blob/master/static/images/Screenshot%20(1297).png)
 
-    Core Teams Section
+    Project Section
 ![App Screenshot](https://github.com/Decodeme007/devsearch/blob/master/static/images/Screenshot%20(1298).png)
 
-    Ticket Section
+    Message(CHAT) Section
 ![App Screenshot](https://github.com/Decodeme007/devsearch/blob/master/static/images/Screenshot%20(1299).png)
 
-    FAQ Section
+    Profile edit Section
 ![App Screenshot](https://github.com/Decodeme007/devsearch/blob/master/static/images/Screenshot%20(1300).png)
