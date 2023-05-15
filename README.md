@@ -23,3 +23,10 @@ Python, Django,AOS(Animation on scroll libraries), Bootstrap, HTML, CSS...
 
     Profile edit Section
 ![App Screenshot](https://github.com/Decodeme007/devsearch/blob/master/static/images/Screenshot%20(1300).png)
+
+## Key Feature
+    *Email Authentication: After login to the website automatic mail will be generated
+    *Chat Section: Here you can chat with the developer
+    *Profile Edit: You can edit your information like name, address, social links
+    *Upload Projects: In this you can upload your projects which will be visible to the users
+    *Like and Comment: In projects you can like/Dislike and comment.
